@@ -1,0 +1,13 @@
+h1      Montserrat  35  #1B0932
+h1+p    Montserrat  24  #3F1A70
+a       Montserrat  24  white
+
+btn bg  gradient linear #7110F0 / white
+header + footer bg
+        gradient linear #F0B110 / white
+
+h2      Montserrat  24  #3F1A70
+h3      Montserrat  18  #F0B110
+
+kontakt>li
+        Montserrat  23  white
